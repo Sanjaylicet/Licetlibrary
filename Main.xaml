@@ -189,6 +189,6 @@
         <InArgument x:TypeArguments="s:String[]">[CseText.Split({" ", vbCrLf, vbCr, vbLf}, StringSplitOptions.RemoveEmptyEntries)]</InArgument>
       </Assign.Value>
     </Assign>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="486.4,113.6" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Central Library Books: &quot; + CseArray(3) + &quot; | Department Library Books: &quot; + CseArray(4)]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="486.4,113.6" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Main Library Books: &quot; + CseArray(3) + &quot; | Department Library Books: &quot; + CseArray(4)]" />
   </Sequence>
 </Activity>
