@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3Y3rQ09O1ECxGvW6vEOpXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" DesignTimeRectangle="190, 48, 397, 44" ElementType="Toolbar" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;wnd ctrlid='1001' title='Address: Downloads' matching:ctrlid='fuzzy' fuzzylevel:ctrlid='0.0' matching:title='fuzzy' fuzzylevel:title='0.0' /&gt;" Guid="ec92fa40-482d-4875-842a-4bdac639b1de" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Save Print Output As' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bc22399326f4d8853c9c3df4c2911093.jpg" xmlns="">0gXjKNF469EWvJeasY442Sg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

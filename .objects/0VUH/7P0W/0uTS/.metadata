@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome LICET – LOYOLA-ICAM COLLEGE OF ENGINEE",
+  "Type": "Screen",
+  "Id": "0uTSwB_HaUyi9hfTFWZAdw",
+  "Reference": "ScUaW0SYV0yk_f2SFJCiCA/0uTSwB_HaUyi9hfTFWZAdw",
+  "ParentRef": "ScUaW0SYV0yk_f2SFJCiCA/7P0WPLVv3U-4xsDIl-07jw",
+  "Created": "2026-10-07T05:24:51.8640452Z",
+  "Updated": "2026-10-07T05:24:51.8640452Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

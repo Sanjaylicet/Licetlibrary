@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Download",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "w1h4ylnLOU6XwOhZP_1uRw",
+  "Reference": "ScUaW0SYV0yk_f2SFJCiCA/w1h4ylnLOU6XwOhZP_1uRw",
+  "ParentRef": "ScUaW0SYV0yk_f2SFJCiCA/0uTSwB_HaUyi9hfTFWZAdw",
+  "Created": "2026-10-07T08:00:44.0207372Z",
+  "Updated": "2026-10-07T08:00:44.0207372Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

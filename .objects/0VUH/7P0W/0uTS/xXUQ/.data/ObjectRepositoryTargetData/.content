@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TviZQbQ2YkSK3K-4Nlg4iA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="licet.ac.in/mandatory-disclosure/library-details" DesignTimeRectangle="8, 16, 402, 66" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Recent download history' role='dialog' /&gt;&lt;ctrl name='LIBRARY-DETAILS.pdf 367 KB • Done' role='push button' /&gt;" Guid="6d455ca9-dd0e-4222-a0d9-67d94c18f72e" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Recent download history' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="651589b70324cec4972502c70307cc27.jpg" xmlns="">0kpp7klgRTEKr_jvk6J7xuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

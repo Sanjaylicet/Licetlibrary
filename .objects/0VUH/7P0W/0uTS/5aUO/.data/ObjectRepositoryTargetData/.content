@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rvJMPjS0SkKWBSNSmfC-OQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="licet.ac.in" DesignTimeRectangle="913, 371, 261, 57" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Mandatory Disclosure' class='elementor-item' tag='A' /&gt;" Guid="1d6d067d-9e2d-430f-9e20-da92f4ab7072" ScopeSelectorArgument="&lt;html app='chrome.exe' title='LICET – LOYOLA-ICAM COLLEGE OF ENGINEERING AND TECHNOLOGY' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fe08831f791215aecb501c3f04047258.jpg" xmlns="">0WRPLhfn-80KW_Ye3rpB7jw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

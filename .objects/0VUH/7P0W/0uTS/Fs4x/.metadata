@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Library Details",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Fs4xgqyLrUWidXj7sYQBtw",
+  "Reference": "ScUaW0SYV0yk_f2SFJCiCA/Fs4xgqyLrUWidXj7sYQBtw",
+  "ParentRef": "ScUaW0SYV0yk_f2SFJCiCA/0uTSwB_HaUyi9hfTFWZAdw",
+  "Created": "2026-10-07T07:59:40.4649448Z",
+  "Updated": "2026-10-07T07:59:40.4649448Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

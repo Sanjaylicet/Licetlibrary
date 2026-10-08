@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Mandatory Disclosure",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "5aUOfdl1xUiCHjIX83J4tQ",
+  "Reference": "ScUaW0SYV0yk_f2SFJCiCA/5aUOfdl1xUiCHjIX83J4tQ",
+  "ParentRef": "ScUaW0SYV0yk_f2SFJCiCA/0uTSwB_HaUyi9hfTFWZAdw",
+  "Created": "2026-10-07T05:25:38.6309196Z",
+  "Updated": "2026-10-07T05:25:38.6309196Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
